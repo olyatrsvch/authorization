@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Google It</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Action Bar -->
+    <string name="abHome">Home</string>
+    <string name="abLogin">Login</string>
+    <string name="abWeb">Google It</string>
+    <string name="changeTheme">Change theme</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bnHome">Home</string>
+    <string name="bnLogin">Login</string>
+    <string name="bnWeb">Web</string>
+    <string name="bnProfile">Profile</string>
+
+    <!-- Login Fragment -->
+    <string name="btnLogin">Login</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnLogOut">Logout</string>
+    <string name="tvGetStarted">Get started with Google It</string>
+
+    <!-- Registration Fragment -->
+    <string name="etLogin">ivanovivan@gmail.com</string>
+    <string name="etPassword">Enter your password</string>
+    <string name="etName">Enter your name</string>
+    <string name="tvRegistration">Create your account</string>
+
+    <!-- Profile Fragment -->
+    <string name="tvProfile">This is your profile page</string>
+    <string name="tvName">Name: %s</string>
+    <string name="tvEmail">Email: %s</string>
+
+    <!-- Home Fragment -->
+    <string name="tvGoogle">Don`t know what to google? Try this:</string>
+
+</resources>
